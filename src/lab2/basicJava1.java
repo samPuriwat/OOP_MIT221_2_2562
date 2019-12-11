@@ -39,6 +39,8 @@ public class basicJava1 {
 
         System.out.println("สวัสดี");
 
+        System.out.println("RUTS");
+
 
 
 
