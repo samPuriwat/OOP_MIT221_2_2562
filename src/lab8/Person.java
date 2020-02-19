@@ -16,7 +16,7 @@ public class Person {
     public String getId() {
         return id;
     }
-    protected String getName() {
+    public String getName() {
         return name;
     }
     public void setName(String name) {
